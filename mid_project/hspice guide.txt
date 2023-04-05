@@ -1,0 +1,8 @@
+在PDA work station上
+跑波型:
+1. source /usr/cad/synopsys/CIC/spice_explorer.cshrc
+2. wv
+
+hspice編譯:
+1. source /usr/cad/synopsys/CIC/hspice.cshrc
+2. hspice -i [input name].sp -o [input name].lis
